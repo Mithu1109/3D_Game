@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 41bee7b7ef6032c429b95fb6a2f662b5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sparklePrefab: {instanceID: 0}
+  - spawnPoint: {instanceID: 0}
+  - dagger: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - glitterSound: {fileID: 8300000, guid: 8df75cce25422634da651b96b014fd55, type: 3}
+  - vientoSound: {fileID: 8300000, guid: f0d84ae1b7e957c48a3a2b15550bc5c2, type: 3}
+  - blowSound: {fileID: 8300000, guid: 51079a798fe28ff4b964521cd53dd9ce, type: 3}
+  - blazeHitSound: {fileID: 8300000, guid: 90e3d6b0f8b351b4c9a60feafb5ac9bb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

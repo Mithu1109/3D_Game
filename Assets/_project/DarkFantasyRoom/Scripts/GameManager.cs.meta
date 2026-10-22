@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 459a6350858ff7e4a9b87caa81b74a28
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - timerText: {instanceID: 0}
+  - crystalText: {instanceID: 0}
+  - spellText: {instanceID: 0}
+  - spellBook: {instanceID: 0}
+  - rubyDagger: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - victorySound: {fileID: 8300000, guid: 354cbb7877c46a540a6a21de93e02050, type: 3}
+  - failureSound: {fileID: 8300000, guid: 9b85969bac77e4144b8ac0ae19d1d234, type: 3}
+  - unlockSound: {fileID: 8300000, guid: dedab32c0fbf053408f7f97fa477c65e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
